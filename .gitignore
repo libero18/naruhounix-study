@@ -1,5 +1,8 @@
 *
 .*
 !.gitignore
+!Gemfile
+!Guardfile
 !*.rb
-
+!*.sh
+!/[0-9]/
